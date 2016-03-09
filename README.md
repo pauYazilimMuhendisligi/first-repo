@@ -1,5 +1,6 @@
 # first-repo
 
 Murat Saygılı
-Mete hadimlioğlu
+Mete Hadimlioğlu
 Yunus Emre ERKEN
+Fırat Özerşahin
