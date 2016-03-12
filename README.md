@@ -6,4 +6,4 @@ Mete Hadimlioğlu - Asana görevimi tamamladım.
 
 Yunus Emre ERKEN - Asana görevimi tamamladım.
 
-Fırat Özerşahin
+Fırat Özerşahin - Asana görevimi tamamladım.
