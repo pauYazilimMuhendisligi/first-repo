@@ -2,7 +2,7 @@
 
 Murat Saygılı
 
-Mete Hadimlioğlu
+Mete Hadimlioğlu - Asana görevimi tamamladım.
 
 Yunus Emre ERKEN
 
