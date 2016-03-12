@@ -1,6 +1,6 @@
 # first-repo
 
-Murat Saygılı
+Murat Saygılı - Asana görevimi tamamladım.
 
 Mete Hadimlioğlu - Asana görevimi tamamladım.
 
