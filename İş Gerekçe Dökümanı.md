@@ -1,12 +1,8 @@
 #İş Gerekçe Dökümanı 
 
-##PROJE ADI
+##Web tabanlı, online, etkinlik yayınlama projesi
 
-**Projenin Konusu:** Bu başlıkta projenin ne olduğunu birkaç cümle ile yazınız. Örn: Facebook: herkese
-
-açık, profil oluşturulan, yazı, fotoğraf, video paylaşılabilen, arkadaşları buluşturan bir web tabanlı
-
-sosyal ağ projesi.
+**Projenin Konusu:** Herkesin üye olup etkinlik oluşturabildiği ve başkalarının da etkinliklerine katılabildiği online web tabanlı bir projedir.
 
 **Proje Özeti:**  Bu projede etkinlik ilanlarını vermek ve bu etkinliklere katılmak için 2 ayrı giriş şekli,
 ücretli ve ücretsiz ilan versiyonları,en sık ilgi gorenler,etkinlik detayları,modüler bir tasarım,herkesin kolaylıkla
