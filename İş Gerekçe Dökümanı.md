@@ -1,6 +1,6 @@
 #İş Gerekçe Dökümanı 
 
-##Web tabanlı, online, etkinlik yayınlama projesi
+## EVENTORY :smile:
 
 **Projenin Konusu:** Herkesin üye olup etkinlik oluşturabildiği ve başkalarının da etkinliklerine katılabildiği online web tabanlı bir projedir.
 
