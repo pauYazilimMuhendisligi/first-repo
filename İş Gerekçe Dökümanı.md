@@ -15,9 +15,7 @@ kapsamı detaylandırılır. Ürünün özellikleri ve işlevleri belirtilir. Pr
 
 işlevleri için yapılması gereken çalışmalar detaylandırılır.
 
-**Projenin sağladığı faydalar (amaç):** Projenin ne için yapıldığını yazınız. Proje sonucunda çıkan ürünün
-
-sağlayacağı faydaları sıralayınız.
+**Projenin sağladığı faydalar (amaç):**Bu proje uye olan kişiye etkinlik düzenleyebilmesini, etkinliğini duyurmasını ve katılım sayısını kısıtlamaya yardımcı olur.
 
 **Projenin kaynakları:** Projeyi gerçekleştirmek için sunucu tarafında PHP,html,javascript ve yanında bootstrap kullanılacaktır. Projeyi ortak yürütecek olan yazılımcılar;
 * Murat Saygılı
