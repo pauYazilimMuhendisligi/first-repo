@@ -9,11 +9,7 @@
 ulaşabileceği bir etkinlik paylaşım platformu olacaktır.(güncel)
 
 
-**Projenin Kapsamı:** Bu projeye nelerin dâhil olduğu, nelerin proje dışı olduğu belirtilir. Ürünün
-
-kapsamı detaylandırılır. Ürünün özellikleri ve işlevleri belirtilir. Proje kapsamında ürünün özellik ve
-
-işlevleri için yapılması gereken çalışmalar detaylandırılır.
+**Projenin Kapsamı:**  Projede kişilerin etkinliklerden haberdar olması amaçlanmaktadır .Bunu sağlayabilmek için de kullanıcının ;yakınındaki etkinlikler için arama yapabilme , bilgilendirilme , etkinlik hakkında detaylı bilgilere ulaşabilmesi, etkinlik bileti alabilmesi veya etkinlik oluşturabilmesi amaçlanmaktadır. Projede kişilerin birbirlerinin hangi etkinliğe gittiğini görebilmesi ancak iletişim kısıtlanması amaçlanmaktadır. Sadece etkinlik sahibiyle iletişim gerçekleştirilecektir. Ürünün kullanımının arttırılması adına benzer ürünler ile karşılaştırılarak eksiklerin giderilmesi ve geliştirilmesi hedeflenmektedir. 
 
 **Projenin sağladığı faydalar (amaç):**Bu proje uye olan kişiye etkinlik düzenleyebilmesini, etkinliğini duyurmasını ve katılım sayısını kısıtlamaya yardımcı olur.
 
