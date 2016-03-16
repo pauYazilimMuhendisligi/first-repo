@@ -19,4 +19,10 @@ işlevleri için yapılması gereken çalışmalar detaylandırılır.
 
 sağlayacağı faydaları sıralayınız.
 
-**Projenin kaynakları:** Proje ekibi ve yazılım donanım ihtiyaçları yazılır.
+**Projenin kaynakları:** Projeyi gerçekleştirmek için sunucu tarafında PHP,html,javascript ve yanında bootstrap kullanılacaktır. Projeyi ortak yürütecek olan yazılımcılar;
+* Murat Saygılı
+* Fırat Özerşahin
+* Mete Hadimlioğlu
+* Yunus Emre Erken
+
+
